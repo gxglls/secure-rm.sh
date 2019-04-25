@@ -8,5 +8,10 @@ A safe linux rm command that supports most of the common parameters of rm. The r
 rm安全改造
 Rm safety transformation
 
+示例:
+
 rm删除:
+  ![image](https://github.com/gxglls/secure-rm.sh/blob/master/img/%E5%88%A0%E9%99%A4.png)
   
+恢复:
+  ![image](https://github.com/gxglls/secure-rm.sh/blob/master/img/%E6%81%A2%E5%A4%8D.png)
