@@ -7,3 +7,6 @@ A safe linux rm command that supports most of the common parameters of rm. The r
 
 rm安全改造
 Rm safety transformation
+
+rm删除:
+  
