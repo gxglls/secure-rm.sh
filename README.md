@@ -17,4 +17,6 @@ rm删除:
   ![image](https://github.com/gxglls/secure-rm.sh/blob/master/img/%E6%81%A2%E5%A4%8D.png)
   
  以下测试用例均测试通过:
+ 
+ 
   ![image](https://github.com/gxglls/secure-rm.sh/blob/master/img/test.png)
